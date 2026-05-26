@@ -1,19 +1,3 @@
-Perfect. Since this is an **M.Tech interview**, they usually don't ask only definitions. They ask:
-
-```text
-1. Definition
-2. Why?
-3. When to use?
-4. Real-life example?
-5. Difference between concepts?
-6. Small coding questions
-```
-
-So below is the README format I would personally revise before an M.Tech Data Analyst/Data Science interview.
-
----
-
-# 🚀 MTECH DATA ANALYTICS INTERVIEW MASTER README
 
 ---
 
